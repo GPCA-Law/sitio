@@ -41,7 +41,7 @@ h3.setus{font-size:19px;font-weight:600;line-height:1.3}
 .slider-caption h2{font-size:55px;line-height:1.2}
 .dark .slider-caption h2{color:#0864a0;text-shadow:none}
 .slider-caption p{color:#666666;text-shadow:none}
-a.botonareas{background-color:#0d76bd;color:#FFF;padding:20px;width:100%;display:block;border-radius:3px;font-family:'Lato',sans-serif;line-height:1.3;font-weight:300;font-size:18px;text-align:center;transition: all .2s ease-in-out;height:90px;display:flex;justify-content:center;align-items:center;cursor:pointer}
+a.botonareas{background-color:#3583bb;color:#FFF;padding:20px;width:100%;display:block;border-radius:3px;font-family:'Lato',sans-serif;line-height:1.3;font-weight:300;font-size:18px;text-align:center;transition: all .2s ease-in-out;height:90px;display:flex;justify-content:center;align-items:center;cursor:pointer}
 a.botonareas:hover{background-color:#444}
 .team-image a{transition: all .2s ease-in-out}
 .team-image a:hover{opacity:0.7;cursor:pointer}
@@ -57,10 +57,10 @@ p.intro span#more{font-size:17px;font-weight:300!important;line-height:1.8!impor
 .flip-card-inner{position:relative;width:100%;height:100%;text-align:center;transition:transform .6s;transform-style:preserve-3d}
 .flip-card:hover .flip-card-inner{transform:rotateY(180deg)}
 .flip-card-front,.flip-card-back{position:absolute;width:100%;height:100%;-webkit-backface-visibility:hidden;backface-visibility:hidden}
-.flip-card-front{background-color:#0d76bd;color:#000}
+.flip-card-front{background-color:#3583bb;color:#000}
 .flip-card-back{background-color:#06456f;color:#fff;transform:rotateY(180deg);background-size:cover;background-position:center center}
 .flip-card-back .button.button-border{border:1px solid #FFF;color:#FFF;font-size:11px;background-color:rgba(0,0,0,0.4)}
-.flip-card-back .button.button-border:hover{border:1px solid #FFF;color:#FFF;background-color:#0d76bd}
+.flip-card-back .button.button-border:hover{border:1px solid #FFF;color:#FFF;background-color:#3583bb}
 .flip-card-front, .flip-card-back{display:flex;flex-direction:column;justify-content:center;border-radius:3px;padding:30px}
 .flip-card .area-a{background-image:url(images/areas/d-publico.jpg)}
 .flip-card .area-b{background-image:url(images/areas/d-comercial.jpg)}
@@ -78,7 +78,7 @@ div.curriculum ul{padding-left:20px; text-align:left}
 .modal-body div.descarea{line-height:1.5!important;max-height:520px;overflow:auto;margin:0;padding:20px 20px 30px;background-color:#ffffff;border:1px solid #ececec;border-radius:5px;font-size:17px!important;font-weight: 300!important}
 div.descarea ul{padding-left:20px; text-align:left}
 .modal-title{font-family:'Cinzel',sans-serif;text-align:center;font-weight:300;font-size:22px;color:#FFF}
-.modal-header{background-color:#0d76bd}
+.modal-header{background-color:#3583bb}
 .modal-header .close{margin-top:4px}
 .close{color:#FFF;text-shadow:none;opacity:0.8;font-weight:normal}
 .cv .modal-title span{color:#75c7ff;font-style:italic;font-family:'Crete Round',serif;font-size:19px;display:block}
